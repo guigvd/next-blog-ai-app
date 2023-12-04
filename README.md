@@ -1,15 +1,15 @@
 <h1 align="center">Next.js Blog Ai App</h1> 
 
-- Description:
+## Description:
 
-A ecommerce project developed with Next.js and JavaScript, which consists of a carousel displaying several items, a filterable list of items, a page displaying item details, a shopping cart that provides a brief summary of the added items, and a checkout page with a form and integration with Stripe.
+This blog app has been created using Next.js + React. It provides the flexibility of Tiptap, an integrated text editing library, to enhance your content directly on the page. Utilize the ChatGPT API to generate engaging texts and incorporate them into your posts. Styling is accomplished with Tailwind CSS, complemented by Heroicons for icons. The database is managed through Prisma.
 
-- Objective:
+## Objective:
 
 Study in practice.
 
-# Demonstration
-- See online at: https://guigvd-next-blog-ai-app.vercel.app/
+## Demonstration
+See online at: https://guigvd-next-blog-ai-app.vercel.app/
 
 ## Home
 ![image](https://github.com/guigvd/next-blog-ai-app/assets/100156111/a642a46c-c3ed-47f1-a122-fd70518882cc)
@@ -25,12 +25,11 @@ Study in practice.
 
 - Next.js
 - React
-- JavaScript
-- Material UI
-- Redux
-- Formik
-- Stripe
-- MongoDB
+- TypeScript
+- Tailwind CSS
+- Tiptap
+- Prisma
+- ChatGPT API
 
 ##
 
